@@ -1,0 +1,23 @@
+1. circle
+컬러 동그라미
+
+2. circle_bw
+무채색(alphaX) 동그라미(np.zeros) 
+
+3. circle_bw_l
+하얀색(alphaX) 동그라미 테두리
+
+4. circle_bw_rs
+무채색(alphaX) 리사이징  동그라미   
+
+5. circle_bw_rs_l
+하얀색 리사이징 동그라미 테두리
+
+6. circle_l
+하얀색(alphaO) 동그라미 테두리
+
+7. circle_rs
+컬러 리사이징 동그라미
+
+8. circle_rs_l
+하얀색(alphaO) 리사이징 동그라미
